@@ -1,4 +1,9 @@
 baseURL = "https://vinliao.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "vinliao"
 theme = "ezhil"
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 1
