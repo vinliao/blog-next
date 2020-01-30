@@ -1,9 +1,22 @@
 baseURL = "https://vinliao.netlify.com/"
 languageCode = "en-us"
 title = "vinliao"
-theme = "ezhil"
+theme = "ink"
+
+pagination = 5
+
+[params]
+	subtitle = ""
+
+	# Optional 64x64 avatar image.
+ 	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "All posts"
+url = "/posts"
 weight = 1
+
+[[menu.main]]
+name = "Now"
+url = "/now"
+weight = 2
