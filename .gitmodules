@@ -3,4 +3,4 @@
 	url = https://github.com/vividvilla/ezhil
 [submodule "themes/ink"]
 	path = themes/ink
-	url = git@github.com:knadh/hugo-ink.git
+	url = https://github.com/knadh/hugo-ink.git
