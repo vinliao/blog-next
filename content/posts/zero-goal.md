@@ -15,3 +15,6 @@ In some cases, a goal only has one crucial thing that can’t be zero. Here’s 
 
 ### Avoiding zero
 When pursuing goals, it’s important to spot the few important things that can’t be ignored. Ignoring these things is a fatal mistake; it’s like multiplying a big number with zero. But out of all the things you can put effort in, which of them are truly important? Here’s a helpful question you can use: “what are the things, that if ignored, makes all my effort irrelevant?” It’s not nice to multiply all your previous effort by zero, wouldn’t it?
+
+
+Thanks to Alvin Sutana for providing feedback for the draft of this essay.
