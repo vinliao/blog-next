@@ -21,6 +21,11 @@ name = "Now"
 url = "/now"
 weight = 2
 
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
 [[params.social]]
 name = "Twitter"
 icon = "twitter"

@@ -17,4 +17,4 @@ Essay is an exploration. By writing essay with these questions as starting point
 ## Get good at copywriting
 I was thinking of having a software engineer job like most of my peers have. But there's something inside me that said, "no, pick other path." I know, it sounds silly.
 
-Maybe the reason why I want to get into software engineering is because all my peers are doing it, not because I really want it. So instead of being an engineer, I picked copywriting and decided to get so good at it that they can't ignore me. I honestly don't know where this path will lead, but it seems to be more interesting than software engineering.
+Maybe the reason why I want to get into software engineering is because all my peers are doing it, not because I really want it. So instead of being an engineer, I picked copywriting. I honestly don't know where this path will lead, but as far as I can see, it seems like an interesting path.
