@@ -3,8 +3,6 @@ languageCode = "en-us"
 title = "Vincent Liao"
 theme = "ink"
 
-pagination = 5
-
 [params]
 	subtitle = "essays and thoughts"
 
@@ -12,19 +10,14 @@ pagination = 5
  	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
 
 [[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 1
-
-[[menu.main]]
 name = "Now"
 url = "/now"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "About"
 url = "/about"
-weight = 3
+weight = 2
 
 [[params.social]]
 name = "Twitter"
