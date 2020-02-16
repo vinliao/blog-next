@@ -9,7 +9,7 @@ This is a [now](https://nownownow.com/about) page. These are the things I'm focu
 ## Freelance copywriting
 I have decided that I'll be a freelance copywriter. Almost all my peers pick the software engineering route, and after weeks of thinking about it, I decided to not do the same.
 
-Of course, copywriting isn't all sunshine and rainbows. These days, I'm studying copywriting skills by reading books written by great copywriters and see what I can learn from them. I also figured out that doing client work is also a great way to level up my copywriting skills.
+Of course, copywriting isn't all sunshine and rainbows. These days, I'm studying copywriting skills by reading books written by great copywriters and see what I can learn from them. In my experience, doing client work is also a great way to level up my copywriting skills.
 
 I have no idea where this path will eventually lead me, but it seems to me that it's more interesting than being a software engineer.
 
