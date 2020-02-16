@@ -6,15 +6,17 @@ type: "page"
 
 This is a [now](https://nownownow.com/about) page. These are the things I'm focusing on lately.
 
+## Freelance copywriting
+I have decided that I'll be a freelance copywriter. Almost all my peers pick the software engineering route, and after weeks of thinking about it, I decided to not do the same.
+
+Of course, copywriting isn't all sunshine and rainbows. These days, I'm studying copywriting skills by reading books written by great copywriters and see what I can learn from them. I also figured out that doing client work is also a great way to level up my copywriting skills.
+
+I have no idea where this path will eventually lead me, but it seems to me that it's more interesting than being a software engineer.
+
 ## Writing essays
 Writing is the best way to understand something; it forces you to think clearly. There are lots of unanswered question at the back of my mind that I want to understand. Here are some examples of it:
 - Contrast is everywhere in life. Why do people pay attention to contrast and how do I use it to my advantage?
 - How do I prevent myself from getting addicted to salary?
-- Why are poop and fart funny? (makes you think, eh?)
+- Why are poop and fart funny? (makes you think, huh?)
 
 Essay is an exploration. By writing essay with these questions as starting point, I might discover interesting things. Sometimes the act of writing essay changed how I see the world and how I make decision.
-
-## Get good at copywriting
-I was thinking of having a software engineer job like most of my peers have. But there's something inside me that said, "no, pick other path." I know, it sounds silly.
-
-Maybe the reason why I want to get into software engineering is because all my peers are doing it, not because I really want it. So instead of being an engineer, I picked copywriting. I honestly don't know where this path will lead, but as far as I can see, it seems like an interesting path.
