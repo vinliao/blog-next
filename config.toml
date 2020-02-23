@@ -1,25 +1,16 @@
 baseURL = "https://vinliao.com/"
 languageCode = "en-us"
 title = "Vincent Liao"
-theme = "ink"
-
-[params]
-	subtitle = "essays and thoughts"
-
-	# Optional 64x64 avatar image.
- 	# avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
-
-[[menu.main]]
-name = "Now"
-url = "/now"
-weight = 1
-
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 2
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/broccoliao"
+theme = "sam"
+	 
+[[params.mainMenu]]
+    link = "/copywriting"
+    text = "I’m a direct response copywriter."
+	
+[[params.mainMenu]]
+    link = "/posts"
+    text = "I sometimes write essay."
+	
+[[params.mainMenu]]
+    link = "/about"
+    text = "Here’s how you can reach me."
