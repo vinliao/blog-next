@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinliao/blog.git"
+  },
+  "keywords": [],
+  "author": "Vincent Liao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinliao/blog/issues"
+  },
+  "homepage": "https://github.com/vinliao/blog#readme",
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "postcss-cli": "^7.1.0"
+  }
+}
