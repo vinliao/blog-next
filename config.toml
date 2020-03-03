@@ -9,7 +9,7 @@ theme = "sam"
 	
 [[params.mainMenu]]
     link = "/posts"
-    text = "I sometimes write essay."
+    text = "I sometimes write blog and essay."
 	
 [[params.mainMenu]]
     link = "/about"
