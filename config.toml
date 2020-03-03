@@ -3,9 +3,9 @@ languageCode = "en-us"
 title = "Vincent Liao"
 theme = "sam"
 	 
-[[params.mainMenu]]
-    link = "/copywriting"
-    text = "I’m a direct response copywriter."
+# [[params.mainMenu]]
+#    link = "/copywriting"
+#    text = "I’m a direct response copywriter."
 	
 [[params.mainMenu]]
     link = "/posts"
