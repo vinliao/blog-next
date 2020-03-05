@@ -15,7 +15,7 @@ It took months for me to arrive on this decision. I want to make the best career
 
 That paragraph is pivotal. It completely changed how I think about career and it made me decide to pick a freelance route.
 
-But I was still confused, though. I didn’t know what service I’m going to offer, until one day I found a thread on reddit on becoming a copywriter. I watched the first video and I know right then and there this is the route I’m going to pick. Copywriting is an extension of what I’m deeply interested in: psychology, influence, and writing. I was in the state of uncertainty for months—I just don’t know what I’m going to do—and it only took me 30 minutes to decide what I’m going to do thanks to that reddit thread.
+But I was still confused, though. I didn’t know what service I’m going to offer, until one day I found a [thread on reddit](https://old.reddit.com/r/digitalnomad/comments/aiwymi/i_make_around_300000_a_year_as_a_freelance/) on becoming a copywriter. I watched the first video and I know right then and there this is the route I’m going to pick. Copywriting is an extension of what I’m deeply interested in: psychology, influence, and writing. I was in the state of uncertainty for months—I just don’t know what I’m going to do—and it only took me 30 minutes to decide what I’m going to do thanks to that reddit thread.
 
 ### Uncertainty and doubt
 That night, I came up with a plan: I’m going to get really good at copywriting and make a living out of it in 6 months. I publicly commited by telling everyone about this plan—and if I fail, I will look like a fool and I will have to work a normal job; both are scary punishment for me.

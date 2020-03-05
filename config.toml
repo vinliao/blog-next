@@ -9,8 +9,8 @@ theme = "sam"
 	
 [[params.mainMenu]]
     link = "/posts"
-    text = "I sometimes write blog and essay."
+    text = "Click here to see my blog/essay"
 	
 [[params.mainMenu]]
     link = "/about"
-    text = "Here’s how you can reach me."
+    text = "Or here on how to reach me"
