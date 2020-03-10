@@ -1,16 +1,47 @@
 baseURL = "https://vinliao.com/"
 languageCode = "en-us"
 title = "Vincent Liao"
-theme = "sam"
-	 
-# [[params.mainMenu]]
-#    link = "/copywriting"
-#    text = "I’m a direct response copywriter."
-	
-[[params.mainMenu]]
-    link = "/posts"
-    text = "Click here to see my blog/essay"
-	
-[[params.mainMenu]]
-    link = "/about"
-    text = "Or here on how to reach me"
+theme = "hermit"
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+
+[author]
+  name = "Vincent Liao"
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  # description = ""
+  # images = [""]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "direct response copywriter"
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  relatedPosts = false  # Add a related content section to all single posts page
+
+  code_copy_button = true # Turn on/off the code-copy-button for code-fields
+ 
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 20

@@ -2,6 +2,8 @@
 title: "The Scariest Decision I Made This Year"
 date: 2020-03-03T17:02:22+07:00
 draft: false
+tags:
+  - personal
 ---
 
 I will graduate soon with a CS degree, but I decided to be a freelance copywriter. Almost all my peers are competing to become a software engineer at a large software company, but I just can’t swallow the fact that I’ll be a cog in a giant machine—I can hear my soul crying. It’s a huge dilemma for me—it’s difficult to not do what others are doing, especially when it’s the norm.
