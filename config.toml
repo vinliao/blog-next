@@ -24,7 +24,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   # images = [""]
   themeColor = "#494f5c"
 
-  homeSubtitle = "direct response copywriter"
+  homeSubtitle = "copywriter by day, essayist & blogger by night"
   justifyContent = false  # Set "text-align: justify" to `.content`.
 
   relatedPosts = false  # Add a related content section to all single posts page
