@@ -3,7 +3,7 @@ title: "What Can't You Imagine Yourself Not Becoming?"
 date: 2020-03-16T19:03:40+07:00
 draft: false
 tags: 
-  - personal
+  - essay
 ---
 
 I was reading alone last night and I found a sentence that made me think, which revealed the answer I’ve been searching for years.

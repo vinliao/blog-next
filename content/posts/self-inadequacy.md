@@ -3,7 +3,7 @@ title: "I Want Success, but Why?"
 date: 2020-03-20T15:43:07+07:00
 draft: false
 tags: 
-  - personal
+  - essay
   - mind
 ---
 
