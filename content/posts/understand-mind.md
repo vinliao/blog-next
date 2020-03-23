@@ -1,7 +1,7 @@
 ---
 title: "The Luxury of Silence"
 date: 2020-03-22T19:43:28+07:00
-draft: false
+draft: true
 tags: 
   - blog
 ---
