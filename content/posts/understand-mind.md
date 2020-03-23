@@ -1,7 +1,7 @@
 ---
 title: "The Luxury of Silence"
 date: 2020-03-22T19:43:28+07:00
-draft: true
+draft: false
 tags: 
   - blog
 ---
@@ -14,8 +14,8 @@ Imagine for a moment how deep you can think about something if you think about i
 
 So for the past 2 weeks, I’ve been devouring the works of [Kapil Gupta.](https://twitter.com/kapilguptamd) He is truly one of a kind—no one talk what he talks about and write what he writes about, which is about the mind. I would describe him as a modern Buddha that has a poetic writing style with a twitter account and a website.
 
-Don’t believe me? Go ahead and read what he writes.
+Go scroll his twitter and you’ll know what I mean.
 
-So here I am, officially a hermit and on my journey to understand my mind. Where will this lead me? Enlightenment? Otherworldly Bliss? Eternal Peace? I don’t know.
+So here I am, officially a hermit and on my journey to understand my mind. What will I be one week from now? One month? Six months? I don’t know.
 
 But what I know is I’m obsessed with finding the truth about my mind.
