@@ -1,9 +1,7 @@
 ---
-title: "The Luxury of Silence"
+title: "Thank You Coronavirus"
 date: 2020-03-22T19:43:28+07:00
 draft: false
-tags: 
-  - blog
 ---
 
 Wear mask. Wash your hands. Avoid people. Covid-19 made everyone scared of death . . . and I’m grateful for that. Let me explain.

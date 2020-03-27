@@ -2,9 +2,6 @@
 title: "“Please Praise Me,” the Mind Said"
 date: 2020-03-21T20:27:48+07:00
 draft: false
-tags: 
-  - essay
-  - mind
 ---
 
 I want you to see me as a smart writer—yes you, the one who’s reading this right now.

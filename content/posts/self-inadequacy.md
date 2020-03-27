@@ -2,9 +2,6 @@
 title: "I Want Success, but Why?"
 date: 2020-03-20T15:43:07+07:00
 draft: false
-tags: 
-  - essay
-  - mind
 ---
 
 There’s one guy on the internet that speaks like no one else. It’s refreshing. His words is like a melody in an ocean of noise. I recently read his [discourse](https://medium.com/@KapilGuptaMD/the-inevitability-of-success-23c878ddc5c9) and this paragraph stabbed me right in the heart

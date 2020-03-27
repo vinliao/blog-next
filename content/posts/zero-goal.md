@@ -2,8 +2,6 @@
 title: "Zero Ruins Goals"
 date: 2020-02-08T14:13:36+07:00
 draft: false
-tags:
-  - essay
 ---
 
 You’re walking down the street and a random stranger asks you “quick, do some math: what’s 13310.5 x 38186 x 22 x 0?” The answer came out of your mouth in less than a second. “Zero,” you said. She said thanks and you both part ways, what a strange encounter. 
