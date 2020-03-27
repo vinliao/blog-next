@@ -4,8 +4,10 @@ date: 2020-02-09T13:30:04+07:00
 type: "page"
 ---
 
-Hi, I'm Vin. I help financial publisher sell more product by writing direct response copy. To know more, click [here.](/copywriting)
+Hi, I'm Vin. 
 
-I write blog and essays from time to time. You can read it [here.](/posts) All these are personal post, there is no "marketing content."
+I help financial publisher sell more product by writing direct response copy. To know more, click [here.](/copywriting)
 
-Contact: vin@vinliao.com.
+I write personal blog and essays from time to time, and you can read it [here.](/posts).
+
+Contact: vin@vinliao.com
