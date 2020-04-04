@@ -4,7 +4,7 @@ date: 2020-03-22T19:43:28+07:00
 draft: false
 ---
 
-Wear mask. Wash your hands. Avoid people. Covid-19 made everyone scared of death . . . and I’m grateful for that. Let me explain.
+Wear mask. Wash your hands. Avoid people. Covid-19 made everyone scared of death... and I’m grateful for that. Let me explain.
 
 For the first time in my life I am completely isolated for long periods of time. No social obligation, no school responsibility, and little work. This isolation provides the best luxury I’ve always wanted: silence.
 

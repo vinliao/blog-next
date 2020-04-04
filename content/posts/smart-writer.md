@@ -6,7 +6,7 @@ draft: false
 
 I want you to see me as a smart writer—yes you, the one who’s reading this right now.
 
-You see, I share my writing to the world even though I don’t have to. Why do I do that? That question seems innocent at first . . . until it’s not. 
+You see, I share my writing to the world even though I don’t have to. Why do I do that? That question seems innocent at first... until it’s not. 
 
 It haunted me.
 

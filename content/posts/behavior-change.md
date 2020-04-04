@@ -8,7 +8,7 @@ tags:
 
 We humans are copycat. It’s natural for us to see what others are doing and copy what they do, especially the people who are above us.
 
-Poor people want to be rich and successful, so they copy successful CEO’s habits. Monks in monasteries wants to be peaceful and enlightened, so they copy Buddha’s behaviors. Teenage girls wants to be popular, so they copy popular celeb’s makeup. The logic behind this is, “if I change my behavior and do what they do, I will get the same result as them.” Almost all people believe this to be true . . . but it’s not.
+Poor people want to be rich and successful, so they copy successful CEO’s habits. Monks in monasteries wants to be peaceful and enlightened, so they copy Buddha’s behaviors. Teenage girls wants to be popular, so they copy popular celeb’s makeup. The logic behind this is, “if I change my behavior and do what they do, I will get the same result as them.” Almost all people believe this to be true... but it’s not.
 
 Here’s the truth: any act of modifying behavior to produce a result will never work.
 

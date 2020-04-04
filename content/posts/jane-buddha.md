@@ -6,7 +6,7 @@ tags:
   - story
 ---
 
-Jane is talking with Buddha in her local Starbucks—yes, _that_ Buddha. “Geez,” the Buddha says, “I wonder what made the butterflies gather on that garden. Look . . . isn’t that beautiful? Look at the color of the wi—”
+Jane is talking with Buddha in her local Starbucks—yes, _that_ Buddha. “Geez,” the Buddha says, “I wonder what made the butterflies gather on that garden. Look... isn’t that beautiful? Look at the color of the wi—”
 
 Suddenly there’s a glass smashing the ground. The brown and creamy beverage that was intended to be enjoyed is splattered all over the floor while releasing a hot steam.
 
