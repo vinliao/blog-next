@@ -6,8 +6,8 @@ type: "page"
 
 Hi, I'm Vin. 
 
-I help financial publisher sell more product by writing direct response copy. To know more, click [here.](/copywriting)
+I write stuff, which you can read [here.](/posts) It's mostly blog, but occasionally I write essay or short story. 
 
-I also write, which you can read [here.](/posts) It's mostly blog, but occasionally I write essay or a short story.
+I also help businesses sell more product by writing direct response copy. To know more, click [here.](/copywriting)
 
 Contact: vin@vinliao.com
