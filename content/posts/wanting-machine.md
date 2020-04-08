@@ -16,14 +16,13 @@ Let me give you an example: I am never satisfied with my laptop. When I own my o
 
 People’s desire for new things can be capitalized to make profit, but having new product doesn’t automatically make people put money in your pocket. Here are things that prevents people from buying.
 
-People are great at ignoring things.[^1] If they perceive a product as “already seen” or “useless,” they will ignore it—which means the cash register ain’t gonna ring. A product that’s perceived as new and/or useful is the prerequisite to sell something, and if people categorize it as old and/or useless, it will be a death sentence for the product.
+People are great at ignoring things. If they perceive a product as “already seen” or “useless,” they will ignore it—which means the cash register ain’t gonna ring. A product that’s perceived as new and/or useful is the prerequisite to sell something, and if people categorize it as old and/or useless, it will be a death sentence for the product.
 
 Not only that, people are skeptics—they want no risk of getting scammed. Buying something new is a risk because it might not be pleasurable enough or it might not work at all. Unless the perceived risk is low enough, people won’t buy. This is why testimonial, proofs, and money-back guarantee exist—it lowers the risk for them and make them feel safe enough to buy.
 
-Finally, there are two things that make people more likely to buy something: if it’s easy and fast. It’s human nature to to want pleasure easy and fast.[^2] People are less likely to buy something if they think it’s hard to use and/or if they think the pleasure won’t be instant.
+Finally, there are two things that make people more likely to buy something: if it’s easy and fast. It’s human nature to to want pleasure easy and fast.[^1] People are less likely to buy something if they think it’s hard to use and/or if they think the pleasure won’t be instant.
 
-If something is perceived[^3] as new, useful, low-risk, fast, and easy, people can’t help but want it—including us. After all, we are all pleasure-seeking machines.
+If something is perceived[^2] as new, useful, low-risk, fast, and easy, people can’t help but want it—including us. After all, we are all pleasure-seeking machines.
 
-[^1]: https://www.psychologytoday.com/us/blog/brain-babble/201502/is-how-the-brain-filters-out-unimportant-details
-[^2]: The psychology lingo is the Path of Least Resistance and Instant Gratification.
-[^3]: You might think, “what’s up with all those ‘perceived’ thing?” Well… your perception is your reality. If you think something as new, it doesn’t matter whether it’s objectively new or old. It’s new to you, and it’s all that matters.
+[^1]: The psychology lingo is the Path of Least Resistance and Instant Gratification.
+[^2]: You might think, “what’s up with all those ‘perceived’ thing?” Well… your perception is your reality. If you think something as new, it doesn’t matter whether it’s objectively new or old. It’s new to you, and it’s all that matters.
