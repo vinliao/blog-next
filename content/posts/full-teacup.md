@@ -18,4 +18,4 @@ I realize that there’s no value in talking with people whose teacup is full. T
 
 This also can be seen the other way. The wise can spot a full teacup in a millisecond and would prevent pouring their tea. Maybe the reason why I haven’t absorbed the wisdom of the wise is because my teacup is full—I still have the baggage of self-image, opinion, and prejudice that I hold tightly.
 
-Emptying teacup isn’t an easy thing to do because it’s an act of letting go _who we are_—it’s like chopping off a pinky. But it’s precisely what we hold dear that prevents wisdom.
+Emptying teacup isn’t an easy thing to do because it’s an act of letting go who we are—it’s like chopping off a pinky. But it’s precisely what we hold dear that prevents wisdom.

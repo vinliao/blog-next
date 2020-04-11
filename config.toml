@@ -4,7 +4,7 @@ title = "vinliao"
 theme = "ezhil"
 paginate = 7
 
-copyright = "© Copyright notice"
+# copyright = "© Copyright notice"
 
 pygmentsstyle = "solarized-dark"
 pygmentscodefences = true
