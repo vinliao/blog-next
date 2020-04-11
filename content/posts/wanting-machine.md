@@ -2,6 +2,8 @@
 title: "[Essay] Humans Are Wanting Machine"
 date: 2020-04-06T12:08:12+07:00
 draft: false
+tags:
+  - essay
 ---
 
 We are all a pleasure-seeking machine.

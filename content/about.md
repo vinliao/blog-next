@@ -6,8 +6,6 @@ type: "page"
 
 Hi, I'm Vin. 
 
-I write stuff, which you can read [here.](/posts) It's mostly blog, but occasionally I write essay or short story. 
+I write essay and blog, which you can read [here.](/posts) I also have a [Twitter](https://twitter.com/broccoliao) account for writing down raw and unedited thoughts.
 
-If you own a business/product, I can help you optimize your sales funnel to sell more of your product with direct response copy. To know more, click [here.](/copywriting)
-
-Contact: vin@vinliao.com
+Contact: vin@vinliao.com 
