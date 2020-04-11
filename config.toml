@@ -1,47 +1,53 @@
-baseURL = "https://vinliao.com/"
+baseURL = "http://vinliao.com"
 languageCode = "en-us"
-title = "Vincent Liao"
-theme = "hermit"
-pygmentsCodefences  = true
-pygmentsUseClasses  = true
-enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+title = "vinliao"
+theme = "ezhil"
+paginate = 7
 
-[author]
-  name = "Vincent Liao"
+copyright = "© Copyright notice"
 
-[taxonomies]
-  tag = "tags"
-  # Categories are disabled by default.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
 
 [params]
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04 -0700"
+	subtitle = "essays and blogs"
+	# disableDisqusTypes = ["page"]
+	featherIconsCDN = true
+	mode = "dark" # "dark", "auto", "light"
+	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
+	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
+	customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
 
-  # Metadata mostly used in document's head
-  # description = ""
-  # images = [""]
-  themeColor = "#494f5c"
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 
-  homeSubtitle = "copywriter by day, essayist & blogger by night"
-  justifyContent = false  # Set "text-align: justify" to `.content`.
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
 
-  relatedPosts = false  # Add a related content section to all single posts page
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
 
-  code_copy_button = true # Turn on/off the code-copy-button for code-fields
- 
-  # Social Icons
-  # Check https://github.com/Track3/hermit#social-icons for more info.
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
 
-[menu]
+[[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:vin@vinliao.com"
 
-  [[menu.main]]
-    name = "Start Here"
-    url = "about/"
-    weight = 10
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/broccoliao"
 
-  [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 20
+[taxonomies]
+   tag = "tags"
