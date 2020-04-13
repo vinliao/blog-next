@@ -1,5 +1,5 @@
 ---
-title: "On Coronavirus"
+title: "Thank You Coronavirus"
 date: 2020-04-13T18:53:44+07:00
 draft: false
 ---
