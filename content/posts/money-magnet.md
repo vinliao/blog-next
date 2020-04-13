@@ -12,7 +12,7 @@ It was yet another rejection email. I stared at it for a moment and closed my la
 
 ### I am high-risk?
 
-Two months ago, I started a copywriting business. I busted my ass off every morning to get good at it—I read all the books I could get my hands on, read and analyze copy, and practice writing copy by hand. After I felt confident enough that I can influence and control minds with words, I started cold pitching… but things weren’t as sexy as it seemed.
+Two months ago, I started a [copywriting business.](/posts/scary-decision) I busted my ass off every morning to get good at it—I read all the books I could get my hands on, read and analyze copy, and practice writing copy by hand. After I felt confident enough that I can influence and control minds with words, I started cold pitching… but things weren’t as sexy as it seemed.
 
 Here’s what I did: I find people who _I think_ need better copies, then I research their product and write few copies for them to test. I gave those copies away for free with the hope that they like what they see and want to do business with me—that’s how I cold pitch. But out of all the clients I pitched to, no one wants to do business with me. Absolutely no one. Zero.
 

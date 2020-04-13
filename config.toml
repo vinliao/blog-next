@@ -2,7 +2,7 @@ baseURL = "https://vinliao.com/"
 languageCode = "en-us"
 title = "vinliao"
 theme = "ezhil"
-paginate = 7
+paginate = 6
 
 # copyright = "© Copyright notice"
 
@@ -11,7 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 [params]
-	subtitle = "essays and blogs"
+	subtitle = "trying to understand the mind by writing"
 	# disableDisqusTypes = ["page"]
 	featherIconsCDN = true
 	mode = "dark" # "dark", "auto", "light"
