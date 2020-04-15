@@ -2,6 +2,8 @@
 title: "Becoming a Money Magnet"
 date: 2020-04-11T10:01:37+07:00
 draft: false
+tags:
+  - money
 ---
 
 There it was—an email from the potential client I sent my pitch to. I felt hope, anxiety, and fear all bundled up inside my mind. My breath got heavier and faster when I opened it. What will it say? Will it be the reply that I’ve always hoped for? Will this finally be the one?

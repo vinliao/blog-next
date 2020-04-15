@@ -2,6 +2,8 @@
 title: "I Don’t Have The Mood"
 date: 2020-04-01T19:47:00+07:00
 draft: false
+tags:
+  - writing
 ---
 
 I am procrastinating on working on my essay… by writing this blog.
