@@ -7,7 +7,7 @@ paginate = 5
 languageCode = "en"  # for the RSS generation
 defaultContentLanguage = "en"
 
-hasCJKLanguage = true
+hasCJKLanguage = false
 
 enableRobotsTXT = true
 
