@@ -1,53 +1,65 @@
 baseURL = "https://vinliao.com/"
-languageCode = "en-us"
 title = "vinliao"
-theme = "ezhil"
-paginate = 6
+theme = "hugo-notepadium"
+# copyright = "©2020 Notepadium."
+paginate = 5
 
-# copyright = "© Copyright notice"
+languageCode = "en"  # for the RSS generation
+defaultContentLanguage = "en"
 
-pygmentsstyle = "solarized-dark"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = "XXX"
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[markup.highlight]
+codeFences = true
+noClasses = false
+
+[markup.goldmark.renderer]
+unsafe = true  # enable raw HTML in Markdown
 
 [params]
-	subtitle = "trying to understand the mind by writing"
-	# disableDisqusTypes = ["page"]
-	featherIconsCDN = true
-	mode = "dark" # "dark", "auto", "light"
-	# customCSS = "css/custom.css"  # Custom CSS applied to default styles.
-	# customDarkCSS = "css/custom-dark.css"  # Custom styles applied to dark mode css.
-	customJS = ["https://code.jquery.com/jquery-3.4.1.js", "js/custom1.js"]  # Custom JS scripts.
+style = "dark"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
+dateFormat = "Jan 02, 2006"  # if unset, default is "2006-01-02"
+readingTime = false  # show reading time after article date
+logo = ""
+slogan = "trying to understand the mind by writing"
+#license = "<a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/><img alt=Creative Commons License style=border-width:0 src=https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png /></a><br />This work is licensed under a <a rel=license href=http://creativecommons.org/licenses/by-nc-sa/4.0/>Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>."
 
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+[params.assets]
+css = ["css/fonts.css"]
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+[params.comments]
+enable = false  # En/Disable comments globally, default: false. You can always enable comments on per page.
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+[params.share]
+enable = false  # En/Disable share globally, default: false. You can always enable share on per page.
+addThisId = ""
+inlineToolId = ""
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+[params.math]
+enable = false # load math globally, default: false. You can always enable math on per page.
+use = "katex"  # builtin: "katex", "mathjax".  default: "katex"
 
-[[params.social]]
-name = "Email"
-icon = "mail"
-url = "mailto:vin@vinliao.com"
+[params.syntax]
+use = "none"  # builtin: "prismjs", "hljs". "none" means Chroma
+theme = "xcode"
+darkTheme = "xcode-dark"
 
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/broccoliao"
+[params.nav]
+showCategories = false       # /categories/
+showTags = true             # /tags/
 
-[taxonomies]
-   tag = "tags"
+[[params.nav.custom]]
+title = "Essays"
+url = "/categories/essay/"
+
+[[params.nav.custom]]
+title = "About"
+url = "/about/"
