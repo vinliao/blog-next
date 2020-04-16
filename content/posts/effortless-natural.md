@@ -1,7 +1,7 @@
 ---
 title: "Effortless Natural"
 date: 2020-04-16T10:53:44+07:00
-draft: false
+draft: true
 categories:
   - essay
 ---

@@ -6,6 +6,6 @@ type: "page"
 
 Hi, I'm Vin. 
 
-I write essay and blog, which you can read [here.](/posts) I also have a [Twitter](https://twitter.com/broccoliao) account for writing down raw and unedited thoughts.
+I use this site to journal and write essay. I also use [Twitter](https://twitter.com/broccoliao) for writing down raw and unedited thoughts.
 
 Contact: vin@vinliao.com 
