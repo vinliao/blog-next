@@ -1,7 +1,7 @@
 ---
-title: "Effortless Natural"
+title: "Making Money Enter My Pocket Effortlessly"
 date: 2020-04-16T10:53:44+07:00
-draft: true
+draft: false
 categories:
   - essay
 ---
@@ -40,6 +40,6 @@ Now that you see what works, it’s effortless to make those fishes come to you.
 
 Just like you can effortlessly have green-fin fish come to you after you have seen, I can effortlessly make money come to me if I see and understand what it is and what it likes. This requires experimentation. _Lots_ of experimentation.
 
-The way to experiment with money is by having business. I did one experiment not long ago: I worked for free as an unknown freelance copywriter. It failed, but I see with my own eyes why it didn’t work, and I know more about money. The more I see and understand money, the more I naturally and effortlessly produce money-attracting behavior.
+The way to experiment with money is by having business. I did [one experiment](/money-magnet) not long ago: I worked for free as an unknown freelance copywriter. It failed, but I see with my own eyes why it didn’t work, and I know more about money. The more I see and understand money, the more I naturally and effortlessly produce money-attracting behavior.
 
 And the more the fictional creepy guy sees and understand women by experimenting, the more he effortlessly drops his creepiness and attract women.
