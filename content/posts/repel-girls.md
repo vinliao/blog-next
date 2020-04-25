@@ -4,6 +4,8 @@ date: 2020-04-16T19:23:38+07:00
 draft: false
 categories:
   - essay
+tags:
+  - money
 ---
 
 Why do girls run away from creepy guys? You might think it’s because of his behavior, but it’s just half of the puzzle. I’ll tell you what the other half is in a second.
