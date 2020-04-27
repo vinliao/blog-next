@@ -2,6 +2,7 @@
 title: "The Circus in the Middle of the Mountain"
 date: 2020-04-27T09:10:39+07:00
 draft: false
+url: "/circus-mountain"
 categories:
   - story
 ---

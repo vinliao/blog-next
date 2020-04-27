@@ -2,6 +2,7 @@
 title: "Pleasure Is Not Free"
 date: 2020-04-21T12:03:46+07:00
 draft: false
+url: "/price-pleasure"
 ---
 
 I’m currently watching and reading the Avatar stories (Aang and Korra). It’s some of the best stories I have ever enjoyed. The characters are memorable, the fighting scenes are cool, the romances spawn butterflies in my belly, the humors and puns are top notch, and the antagonists are pure evil. It’s nothing but pleasure.

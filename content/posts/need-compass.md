@@ -1,6 +1,7 @@
 ---
 title: "I Need a Compass"
 date: 2020-04-20T20:14:15+07:00
+url: "/need-compass"
 draft: false
 ---
 

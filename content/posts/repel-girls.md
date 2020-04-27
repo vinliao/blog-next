@@ -2,6 +2,7 @@
 title: "The Creepy Guy Who Repels Girls"
 date: 2020-04-16T19:23:38+07:00
 draft: false
+url: "/repel-girls"
 categories:
   - essay
 tags:

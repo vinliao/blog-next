@@ -2,7 +2,7 @@ baseURL = "https://vinliao.com/"
 title = "vinliao"
 theme = "hugo-notepadium"
 # copyright = "©2020 Notepadium."
-paginate = 5
+paginate = 7
 
 languageCode = "en"  # for the RSS generation
 defaultContentLanguage = "en"

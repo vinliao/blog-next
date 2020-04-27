@@ -2,6 +2,7 @@
 title: "I Don’t Have The Mood"
 date: 2020-04-01T19:47:00+07:00
 draft: false
+url: "/the-mood"
 tags:
   - writing
 ---

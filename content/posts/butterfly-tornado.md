@@ -2,6 +2,7 @@
 title: "The Butterfly and the Tornado"
 date: 2020-04-15T20:36:11+07:00
 draft: false
+url: "/butterfly-tornado"
 tags:
   - writing
 ---

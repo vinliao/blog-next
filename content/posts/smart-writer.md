@@ -2,6 +2,7 @@
 title: "“Please Praise Me,” the Mind Said"
 date: 2020-03-21T20:27:48+07:00
 draft: false
+url: "/smart-writer"
 tags:
   - writing
 ---

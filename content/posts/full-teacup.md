@@ -1,6 +1,7 @@
 ---
 title: "Your Teacup is Full"
 date: 2020-04-07T15:19:38+07:00
+url: "/full-teacup"
 draft: false
 ---
 

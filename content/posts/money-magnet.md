@@ -1,6 +1,7 @@
 ---
 title: "Becoming a Money Magnet"
 date: 2020-04-11T10:01:37+07:00
+url: "/money-magnet"
 draft: false
 tags:
   - money

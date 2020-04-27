@@ -2,6 +2,7 @@
 title: "Thank You Coronavirus"
 date: 2020-04-13T18:53:44+07:00
 draft: false
+url: "/on-coronavirus"
 ---
 
 Because of the quarantine, I learned more about myself in the past 3 weeks than in my entire life. The Coronavirus outbreak provides me the thing that I have always wanted, but was always out of my reach—silence.

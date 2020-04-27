@@ -1,6 +1,7 @@
 ---
 title: "“It’s Okay. Be Careful Next Time My Friend”"
 date: 2020-03-27T18:42:12+07:00
+url: "/jane-buddha"
 draft: false
 categories:
   - story

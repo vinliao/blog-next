@@ -2,6 +2,7 @@
 title: "The Scariest Decision I Made This Year"
 date: 2020-03-03T17:02:22+07:00
 draft: false
+url: "/scary-decision"
 tags:
   - money
 ---

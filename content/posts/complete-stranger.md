@@ -1,6 +1,7 @@
 ---
 title: "Vincent"
 date: 2020-04-04T20:41:23+07:00
+url: "/complete-stranger"
 draft: false
 ---
 
