@@ -5,6 +5,7 @@ draft: false
 url: "/wanting-machine"
 categories:
   - essay
+  - mind
 ---
 
 We are all a pleasure-seeking machine.

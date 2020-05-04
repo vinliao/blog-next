@@ -5,6 +5,7 @@ draft: false
 url: "/butterfly-tornado"
 tags:
   - writing
+  - mind
 ---
 
 Today is a strange day. The Writing Mood—which is the state where words naturally flow through my fingertips—usually appears after I eat breakfast. But not today. I sat in front of my laptop this morning and found myself staring at the screen for one hour without being able to even string one sentence. I walked around to “let ideas come to me” and none came. I was filled with confusion, guilt, and anxiety all bundled up inside my head and I ended up watching movies the entire morning instead of writing.
