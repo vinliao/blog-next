@@ -3,6 +3,8 @@ title: "How I’ll Feel After I Get What I Want"
 date: 2020-04-29T07:27:09+07:00
 draft: false
 url: "/default-state"
+tags:
+  - mind
 ---
 
 I know what will happen if I meet the love of my life this evening: I’ll feel happy for weeks or months, then I’ll revert back to my default. “What’s your ‘default state?’” you might ask. It’s the feeling I feel as I type these words—all the problems and stress associated with it, the hope and dreams, the craving for big and small things, the non-stop barking mind, the constant boredom, and the sporadic happiness. No matter what happens to me, I’ll default to this state.
