@@ -5,6 +5,7 @@ draft: false
 url: "/wanting-machine"
 categories:
   - essay
+  - trash
 tags:
   - mind
 ---

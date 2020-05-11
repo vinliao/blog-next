@@ -3,6 +3,8 @@ title: "My Yearlong Sleep and Productivity Experiment"
 date: 2020-03-08T19:58:38+07:00
 draft: false
 url: "/sleep-productivity"
+categories:
+  - trash
 ---
 
 I’m a productivity geek, and I think the most best productivity booster out there is good quality sleep. That’s why last year I embarked on a journey to experiment with sleep. I want the best sleep quality I can possibly have—the one makes me as productive as possible. I tried this, I tried that, until finally I stumbled upon one thing that drastically increases my sleep quality: 8 hour of sleep that starts at 10 pm.

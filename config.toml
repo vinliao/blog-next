@@ -53,12 +53,8 @@ theme = "xcode"
 darkTheme = "xcode-dark"
 
 [params.nav]
-showCategories = false       # /categories/
+showCategories = true       # /categories/
 showTags = true             # /tags/
-
-[[params.nav.custom]]
-title = "Essays"
-url = "/categories/essay/"
 
 [[params.nav.custom]]
 title = "About"
