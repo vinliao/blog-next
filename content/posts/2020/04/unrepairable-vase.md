@@ -3,8 +3,6 @@ title: "The Unrepairable Vase"
 date: 2020-04-25T19:18:25+07:00
 draft: false
 url: "/unrepairable-vase"
-categories:
-  - essay
 tags:
   - money
 ---

@@ -3,8 +3,6 @@ title: "Lasting Transformation Comes From Understanding"
 date: 2020-03-29T20:01:55+07:00
 draft: false
 url: "/behavior-change"
-categories:
-  - essay
 ---
 
 We humans are copycat. It’s natural for us to see what others are doing and copy what they do, especially the people who are above us.

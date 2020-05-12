@@ -3,8 +3,6 @@ title: "The Burden of Boredom"
 date: 2020-05-07T09:17:37+07:00
 url: "/burden-boredom"
 draft: false
-categories:
-  - essay
 tags:
   - mind
 ---

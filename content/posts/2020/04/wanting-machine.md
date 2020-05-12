@@ -4,7 +4,6 @@ date: 2020-04-06T12:08:12+07:00
 draft: false
 url: "/wanting-machine"
 categories:
-  - essay
   - trash
 tags:
   - mind
