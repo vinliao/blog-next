@@ -8,7 +8,7 @@ I don't have any goal by posting things here. I'm not trying to convince you of 
 
 _Words that exist on this site exist because it wants to._
 
-I don't know what I'm doing. I don't know where all these will lead. I don't know what I'll write in the future. Will there be a poem? Will there be a new story? What kind of essay would I ponder about next? I have zero idea. I don't even know what to call the things on this site. Are these blogs or journals? I don't know.
+I don't know what I'm doing. I don't know where all these will lead. I don't know what I'll write in the future. Will there be a poem? Will there be a new story? What kind of topic would I ponder about next? I have zero idea. I don't even know what to call the things on this site. Are these blogs or journals? I don't know.
 
 But who cares? What matters is I enjoy every single second spent on doing these things.
 
