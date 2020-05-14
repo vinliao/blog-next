@@ -20,3 +20,7 @@ This fear is the reason why I didn't "perform well" for the past couple days. I 
 And here's the silliest part: the reason why this fear exist is because I have the need to perform well. I fear having uncouth words come out of me; I fear writing lies; I fear the words that appears on the screen would rot; I fear not finishing. The need to perform well and write beautifully fills me with fear, which strangles me harder as the day goes by.
 
 And here I am, being stuck in this circular loop.
+
+---
+
+Related post: [The Impurity of Writing](/need-create)
