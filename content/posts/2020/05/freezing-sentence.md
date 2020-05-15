@@ -19,6 +19,6 @@ But that one sentence changed everything, and it's this.
 
 To you, it might mean nothing, but to me, it was a magical experience. I was witnessing the answer to my burning question appear right in front of my eyes, and I don't even have any clue how it happened.
 
-That sentence _froze_ me. I just stared at it with awe. It helped me understand that the words that I have the privilege to type _is alive,_ and I am just a tool for it to expresses itself.
+That sentence _froze_ me. I just stared at it with awe. It helped me understand that the words that I have the privilege to type _is alive,_ and I am just a tool for it to express itself.
 
 It's not me who create art; the art expresses itself.
