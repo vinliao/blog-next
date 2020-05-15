@@ -13,7 +13,7 @@ Every emotional turmoil, every conflict, and every outburst of anger and disappo
 
 ### Three... two... one...
 
-"What do you precisely mean by need?" you might wonder. Need is dependence; need is attachment; need is a dynamite waiting to explode. The need for things to go a certain way will *inevitably* produce pain. When things doesn't go how you hope for, you will be filled with emotional turmoil. When people don't do what you wish, you will be in conflict. And even if your needs are satisfied, it will soon be taken away from you.
+"What do you precisely mean by need?" you might wonder. Need is dependence; need is attachment; need is a dynamite waiting to explode. The need for things to go a certain way will *inevitably* produce pain. The pain isn't inflicted by the circumstances, but by the need for it to be a certain way. When things doesn't go how you hope for, you will be filled with emotional turmoil. When people don't do what you wish, you will be in conflict. And even if your needs are satisfied, it will soon be taken away from you.
 
 I'll give you an example.
 
