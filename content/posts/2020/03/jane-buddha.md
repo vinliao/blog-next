@@ -3,8 +3,6 @@ title: "“It’s Okay. Be Careful Next Time My Friend”"
 date: 2020-03-27T18:42:12+07:00
 url: "/jane-buddha"
 draft: false
-categories:
-  - story
 ---
 
 Jane is talking with Buddha in her local Starbucks—yes, _that_ Buddha. “Geez,” the Buddha says, “I wonder what made the butterflies gather on that garden. Look... isn’t that beautiful? Look at the color of the wi—”

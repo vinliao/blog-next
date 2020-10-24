@@ -3,8 +3,6 @@ title: "The Island That Can Fill the Hole"
 date: 2020-05-10T14:11:56+07:00
 url: "/man-sea"
 draft: false
-categories:
-  - story
 ---
 
 A man is on the shore
