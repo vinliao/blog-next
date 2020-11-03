@@ -5,7 +5,7 @@ url: "/on-listening"
 draft: false
 ---
 
-Every single word that I've said to another human being has never been Listened. Listen with a capital L--Listen. Everybody listen with their ear, but no one Listens with their heart. When words approach their ear, it immediately passes through an internal vending machine called the mind, which will _immediately_ spit out a reaction to what I said.
+Every single word that I've said to another human being has never been Listened. Listen with a capital L. Listen. Everybody listen with their ear, but no one Listens with their heart. When words approach their ear, it immediately passes through an internal vending machine called the mind, which will _immediately_ spit out a reaction to what I said.
 
 Every word that I've said to other human being is reacted instead of Listened.
 
