@@ -1,6 +1,7 @@
 ---
 title: "Butterfly runs away from those who chase"
 date: 2020-11-02T22:19:48+07:00
+url: "/beautiful-conversation"
 draft: false
 ---
 
