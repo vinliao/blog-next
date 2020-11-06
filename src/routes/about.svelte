@@ -1,4 +1,6 @@
 <style lang="scss">
+  @import '../style/variables';
+  
   .about-title {
     font-size: 5rem;
     font-weight: 700;

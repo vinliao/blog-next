@@ -1,27 +1,29 @@
 <script>
-	let posts = ['this is my first post', 'this is my second post']
+  let posts = ["this is my first post", "this is my second post"];
 </script>
 
-<style>
-  
+<style lang="scss">
+  @import "../style/variables";
+
   .content {
     padding-bottom: 10rem;
-	} 
-	
-	.content-title {
-		font-size: 5rem;
-		font-weight: 700;
+
+    &-title {
+      font-size: 5rem;
+      font-weight: 700;
+    }
+
+    &-date {
+      color: $text-color-lightest;
+      font-weight: 200;
+    }
 	}
 
-	.content-date {
-		color: hsl(0, 0%, 40%);
-		font-weight: 200
-	}
 </style>
 
 <svelte:head>
-	<title>Stupid blog</title>
-</svelte:head>	
+  <title>Stupid blog</title>
+</svelte:head>
 
 {#each posts as post}
   <div class="content">
