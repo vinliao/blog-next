@@ -2,7 +2,8 @@
 	import Nav from '../components/Nav.svelte';
 </script>
 
-<style>
+<style lang="scss">
+	@import '../style/global.scss';
 	/* main {
 		position: relative;
 		max-width: 56em;
@@ -12,11 +13,11 @@
 		box-sizing: border-box;
 	} */
 
-	.container {
-		max-width: 720px;
-		margin: 0 auto;
-		padding-top: 2rem;
-	}
+	// .container {
+	// 	max-width: 720px;
+	// 	margin: 0 auto;
+	// 	padding-top: 2rem;
+	// }
 </style>
 
 <Nav/>

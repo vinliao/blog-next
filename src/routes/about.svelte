@@ -1,4 +1,4 @@
-<style>
+<style lang="scss">
   .about-title {
     font-size: 5rem;
     font-weight: 700;

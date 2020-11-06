@@ -29,11 +29,6 @@ code {
 	border-radius: 2px;
 } */
 
-.container {
-  max-width: 720px;
-  margin: 0 auto;
-  padding-top: 1rem;
-}
 
 html {
   font-size: 10px;
