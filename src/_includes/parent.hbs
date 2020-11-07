@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="/style/style.css">
-  <title>hello markdown</title>
+  <title>{{ title }}</title>
 </head>
 
 <body>
   <div class="nav">
     <a href="/">
-      <span class="nav-title">vinliao</span>
+      <span class="nav-title">{{ site.nav-title }}</span>
     </a>
     <div class="nav-links">
       <a href="/about"><span>about</span></a>
@@ -19,12 +19,7 @@
   </div>
 
   <div class="container">
-    
-  <p>2020-04-10</p>
-  <a href="/posts/one/">???</a>
-  <p>2020-05-10</p>
-  <a href="/posts/two/">second bro</a>
-
+    {{{content}}}
   </div>
 
 

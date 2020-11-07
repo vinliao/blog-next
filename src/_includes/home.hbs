@@ -1,0 +1,8 @@
+---
+layout: parent.hbs
+---
+
+{{#each collections.post}}
+  <p>{{this.data.date}}</p>
+  <a href="{{this.url}}">{{this.data.title}}</a>
+{{/each}}

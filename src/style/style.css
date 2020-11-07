@@ -1,7 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
 html {
   font-size: 10px;
 }
 
 body {
   font-size: 2rem;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.nav {
+  display: flex;
+  /* border: 1px solid red; */
+  padding: 2rem 5rem;
+}
+
+.nav-links span {
+  margin-left: 5rem;
 }
