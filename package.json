@@ -4,9 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "npx @11ty/eleventy --serve"
+    "dev": "npx @11ty/eleventy --serve",
+    "sass": "npx sass ./src/style/style.scss ./src/style/style.css --watch"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.11.1"
+  },
+  "devDependencies": {
+    "sass": "^1.29.0"
   }
 }
