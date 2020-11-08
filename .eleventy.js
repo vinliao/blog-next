@@ -1,5 +1,14 @@
 module.exports = function (eleventyConfig) {
-  eleventyConfig.addPassthroughCopy('src/style')
+  let md = require('markdown-it')
+  const options = {
+    html: true,
+    breaks: true,
+    typographer: true,
+    linkify: true
+  }
+
+  eleventyConfig.setLibrary('md', md(options));
+  eleventyConfig.addPassthroughCopy('src/style');
   return {
     passthroughFileCopy: true,
     dir: {
@@ -7,4 +16,4 @@ module.exports = function (eleventyConfig) {
       output: "dist"
     },
   }
-}
+};

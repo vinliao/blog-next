@@ -5,12 +5,16 @@
   padding: 0;
 }
 
+p {
+  margin-bottom: 1rem;
+}
+
 html {
   font-size: 10px;
 }
 
 body {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-family: "Literata", serif;
   color: #333333;
   background-color: white;
@@ -19,6 +23,74 @@ body {
 a {
   text-decoration: none;
   color: #333333;
+}
+
+code {
+  font-family: "Inconsolata", monospace;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inconsolata", monospace;
+  padding-top: 1rem;
+}
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 0 1rem;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 3rem;
+}
+.nav-title {
+  font-family: "Inconsolata", monospace;
+  font-size: 3rem;
+  font-weight: 200;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+.nav-links a {
+  margin-left: 5rem;
+  color: gray;
+}
+
+.list {
+  padding-bottom: 3rem;
+}
+.list:last-of-type {
+  padding-bottom: 5rem;
+}
+.list-date {
+  font-size: 1.5rem;
+  color: #b3b3b3;
+}
+.list-title {
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.post-title {
+  font-size: 3rem;
+  font-weight: 700;
+  padding-bottom: 1rem;
+}
+.post-content {
+  padding-bottom: 3rem;
+}
+.post-content a {
+  text-decoration: underline;
+  text-underline-position: above;
+  text-decoration-color: #b3b3b3;
 }
 
 /*# sourceMappingURL=style.css.map */

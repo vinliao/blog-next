@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{title}}</title>
   <link rel="stylesheet" href="/style/style.css">
 </head>
+
 <body>
-  <div class="nav">
-    <a href="/">
-      <span class="nav-title">{{ site.nav-title }}</span>
-    </a>
-    <div class="nav-links">
-      <a href="/about"><span>about</span></a>
-      <a href="/about"><span>about</span></a>
+  <div class="container">
+    <div class="nav">
+      <a href="/">
+        <span class="nav-title">{{ site.nav-title }}</span>
+      </a>
+      <div class="nav-links">
+        <a href="/about"><span>about</span></a>
+      </div>
     </div>
+
+    {{content}}
+
   </div>
 
-  <div class="container">
-    {{content}}
-  </div>
-  
 </body>
+
 </html>

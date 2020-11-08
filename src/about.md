@@ -1,6 +1,6 @@
 ---
-title: "about"
+title: "About"
 layout: post.liquid
 ---
 
-this is an about page
+I'm not sure what to write here. Perhaps something will appear later.

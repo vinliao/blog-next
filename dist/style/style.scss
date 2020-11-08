@@ -3,7 +3,7 @@
 
 // === mixins ===
 @mixin thick-title {
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: 700;
 }
 
@@ -46,12 +46,18 @@ $dark-mode: false;
   padding: 0;
 }
 
+// without this margin bottom, there's no line break
+// in the post
+p {
+  margin-bottom: 1rem;
+}
+
 html {
   font-size: 10px;
 }
 
 body {
-  font-size: 1.5rem;
+  font-size: 1.75rem;
   font-family: "Literata", serif;
   color: $text-color;
   background-color: $background-color;
@@ -60,4 +66,82 @@ body {
 a {
   text-decoration: none;
   color: $text-color;
+}
+
+code {
+  @include monospace-font;
+  // make some color stuff here... maybe
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include monospace-font;
+  padding-top: 1rem;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 0 1rem;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 3rem;
+
+  &-title {
+    @include monospace-font;
+    font-size: 3rem;
+    font-weight: 200;
+  }
+
+  // maybe use hamburger instead
+  &-links {
+    display: flex;
+    // what's the difference between align items and justify content?
+    align-items: center;
+
+    a {
+      margin-left: 5rem;
+      color: $text-color-light-3;
+    }
+  }
+}
+
+.list {
+  padding-bottom: 3rem;
+
+  &:last-of-type {
+    padding-bottom: 5rem;
+  }
+
+  &-date {
+    font-size: 1.5rem;
+    color: $text-color-light-5;
+  }
+
+  &-title {
+    @include thick-title;
+  }
+}
+
+.post {
+  &-title {
+    @include thick-title;
+    padding-bottom: 1rem;
+  }
+
+  &-content {
+    padding-bottom: 3rem;
+    a {
+      text-decoration: underline;
+      text-underline-position: above;
+      text-decoration-color: $underline-color;
+    }
+  }
 }
