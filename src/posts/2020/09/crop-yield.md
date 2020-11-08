@@ -1,8 +1,9 @@
 ---
 title: "Villager's Rain"
-date: 2020-09-18T00:44:48+07:00
-url: "/crop-yield"
-draft: false
+date: "2020-09-18"
+layout: "post.liquid"
+tags: "post"
+permalink: "crop-yield/"
 ---
 
 It hasn't rained for two months in a small villange in Japan. Crops are drying up, and the villagers are afraid that it might negatively impact crop yield.

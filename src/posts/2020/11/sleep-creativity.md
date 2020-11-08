@@ -1,8 +1,9 @@
 ---
 title: "Creativity Doesn't Like Zombies"
-date: 2020-11-05T14:37:04+07:00
-url: "/sleep-creativity"
-draft: false
+date: "2020-11-05"
+layout: "post.liquid"
+tags: "post"
+permalink: "sleep-creativity/"
 ---
 
 Creativity isn't about following a five-step plan to be creative; it's more about not preventing creativity to appear. 

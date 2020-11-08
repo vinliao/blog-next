@@ -1,8 +1,9 @@
 ---
 title: "Almost Everything We Say Fall on Deaf Ears"
-date: "2020-11-03T20:44:02+07:00"
-url: "/on-listening"
-draft: false
+date: "2020-11-03"
+layout: "post.liquid"
+tags: "post"
+permalink: "on-listening/"
 ---
 
 Every single word that I've said to another human being has never been Listened. Listen with a capital L. Listen. Everybody listen with their ear, but no one Listens with their heart. When words approach their ear, it immediately passes through an internal vending machine called the mind, which will _immediately_ spit out a reaction to what I said.

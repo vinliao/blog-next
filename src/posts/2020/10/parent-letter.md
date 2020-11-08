@@ -1,8 +1,9 @@
 ---
 title: "A Letter From The Heart to Parents"
-date: 2020-10-02T00:41:36+07:00
-url: "/parent-letter"
-draft: false
+date: "2020-10-02"
+layout: "post.liquid"
+tags: "post"
+permalink: "parent-letter/"
 ---
 
 Dear parents

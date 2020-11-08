@@ -1,8 +1,9 @@
 ---
 title: "The Circus in the Middle of the Mountain"
-date: 2020-04-27T09:10:39+07:00
-draft: false
-url: "/circus-mountain"
+date: "2020-04-27"
+layout: "post.liquid"
+tags: "post"
+permalink: "circus-mountain/"
 ---
 
 It’s almost midnight. I’m all alone. Water, check;  food, check; headlamp, check; beanie, check; scarf, check; this, check; that, check; I have my backpack ready to climb the mountain, and I start to walk the route towards the top.

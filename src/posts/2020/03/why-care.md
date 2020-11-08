@@ -1,8 +1,9 @@
 ---
 title: "Why Care?"
-date: 2020-03-18T19:59:44+07:00
-draft: false
-url: "/why-care"
+date: "2020-03-18"
+layout: "post.liquid"
+tags: "post"
+permalink: "why-care/"
 ---
 
 Everything feels empty. All the things I chase, all my desires, and the things I care about turns out to be unimportant.

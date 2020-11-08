@@ -7,6 +7,7 @@
 - ~~verify that the post are sorted by date. Post are sorted by date by default, but it's ascending (early to recent). I want the opposite.~~
 - cypress testing (maybe)
 - have a place for a microblog to live. Pull from twitter/mastodon and store it in a markdown file? Not sure. But I really want to have a place for a microblog in this site.
+- create a post generator like `hugo new post` to populate the front-matter
 
 # Minor improvements/fixes
 - ~~what if I make h1, h2, h3 into a sans-serif font? What if I use sans serif for the nav title instead of my current monospace font? I will have two fonts if I do that.~~

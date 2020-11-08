@@ -1,8 +1,9 @@
 ---
 title: "Butterfly Runs Away From Those Who Chase"
-date: 2020-11-02T22:19:48+07:00
-url: "/beautiful-conversation"
-draft: false
+date: "2020-11-02"
+layout: "post.liquid"
+tags: "post"
+permalink: "beautiful-conversation/"
 ---
 
 I've had beautiful conversations in my life. You know, the one that is so fun and intense that 3 hours passed in a blink of an eye; the one that's so fun that even the smallest thing can be laughed with the belly; the one that's so emotional that everyone has teary eyes and heavy heart.

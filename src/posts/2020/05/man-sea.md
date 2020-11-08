@@ -1,8 +1,9 @@
 ---
 title: "The Island That Can Fill the Hole"
-date: 2020-05-10T14:11:56+07:00
-url: "/man-sea"
-draft: false
+date: "2020-05-10"
+layout: "post.liquid"
+tags: "post"
+permalink: "man-sea/"
 ---
 
 A man is on the shore

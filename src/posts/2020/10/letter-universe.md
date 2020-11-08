@@ -1,8 +1,9 @@
 ---
 title: "A Letter to Me From The Universe"
-date: 2020-10-21T00:35:42+07:00
-url: "/letter-universe"
-draft: false
+date: "2020-10-21"
+layout: "post.liquid"
+tags: "post"
+permalink: "letter-universe/"
 ---
 
 Have you seen now Vincent that I'm always beside you? That I always take care of you?
