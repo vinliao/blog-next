@@ -1,3 +1,30 @@
+// === imports ===
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400&family=Literata:ital,wght@0,400;0,700;1,400&display=swap");
+
+// === variables ===
+$max-width: 720px;
+
+$background-color: hsl(0, 0, 100);
+$text-color: hsl(0, 0%, 20%);
+$text-color-dark-1: hsl(0, 0%, 10%);
+$text-color-dark-2: hsl(0, 0%, 0%);
+$text-color-light-1: hsl(0, 0%, 30%);
+$text-color-light-2: hsl(0, 0%, 40%);
+$text-color-light-3: hsl(0, 0%, 50%);
+$text-color-light-4: hsl(0, 0%, 60%);
+$text-color-light-5: hsl(0, 0%, 70%);
+
+// $dark-mode: false;
+// @if $dark-mode {
+//   $text-color: hsl(0, 0, 80);
+//   $background-color: hsl(0, 0, 20);
+//   $text-color-darker: hsl(0, 0, 90);
+//   $text-color-lighter: hsl(0, 0, 70);
+//   $text-color-lightest: hsl(0, 0, 60);
+// }
+
+// === css ===
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,20 +35,69 @@ html {
 }
 
 body {
-  font-size: 2rem;
+  font-size: 2.25rem;
+  font-family: "Literata", serif;
+  color: $text-color;
+}
+
+a {
+  text-decoration: none;
+  color: hsl(0, 0%, 20%);
+
+  &:hover {
+    text-decoration: underline;
+  }
 }
 
 .container {
-  max-width: 720px;
+  max-width: $max-width;
   margin: 0 auto;
 }
 
 .nav {
   display: flex;
-  /* border: 1px solid red; */
-  padding: 2rem 5rem;
+  justify-content: space-between;
+  padding: 2rem 5rem 10rem 5rem;
+
+  &-title {
+    font-size: 4rem;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 200;
+  }
+
+  &-links {
+    display: flex;
+    // what's the difference between align items and justify content?
+    align-items: center;
+
+    span {
+      margin-left: 5rem;
+      color: $text-color-light-3;
+    }
+  }
 }
 
-.nav-links span {
-  margin-left: 5rem;
+.list {
+  padding-bottom: 8rem;
+
+  &-date {
+    color: $text-color-light-5;
+  }
+
+  &-title {
+    font-size: 5rem;
+    font-weight: 700;
+  }
+}
+
+.post {
+  &-title {
+    font-size: 5rem;
+    font-weight: 700;
+    padding-bottom: 2rem;
+  }
+  
+  &-content {
+    padding-bottom: 15rem;
+  }
 }

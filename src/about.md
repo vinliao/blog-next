@@ -1,6 +1,6 @@
 ---
 title: "about"
-layout: content.hbs
+layout: post.hbs
 ---
 
 this is an about page

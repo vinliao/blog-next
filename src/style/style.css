@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400&family=Literata:ital,wght@0,400;0,700;1,400&display=swap");
 * {
   box-sizing: border-box;
   margin: 0;
@@ -8,7 +9,17 @@ html {
 }
 
 body {
-  font-size: 2rem;
+  font-size: 2.25rem;
+  font-family: "Literata", serif;
+  color: #333333;
+}
+
+a {
+  text-decoration: none;
+  color: #333333;
+}
+a:hover {
+  text-decoration: underline;
 }
 
 .container {
@@ -18,12 +29,41 @@ body {
 
 .nav {
   display: flex;
-  /* border: 1px solid red; */
-  padding: 2rem 5rem;
+  justify-content: space-between;
+  padding: 2rem 5rem 10rem 5rem;
 }
-
+.nav-title {
+  font-size: 4rem;
+  font-family: "Inconsolata", monospace;
+  font-weight: 200;
+}
+.nav-links {
+  display: flex;
+  align-items: center;
+}
 .nav-links span {
   margin-left: 5rem;
+  color: gray;
+}
+
+.list {
+  padding-bottom: 8rem;
+}
+.list-date {
+  color: #b3b3b3;
+}
+.list-title {
+  font-size: 5rem;
+  font-weight: 700;
+}
+
+.post-title {
+  font-size: 5rem;
+  font-weight: 700;
+  padding-bottom: 2rem;
+}
+.post-content {
+  padding-bottom: 15rem;
 }
 
 /*# sourceMappingURL=style.css.map */
