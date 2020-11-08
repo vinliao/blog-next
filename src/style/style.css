@@ -19,9 +19,6 @@ a {
   text-decoration: none;
   color: #333333;
 }
-a:hover {
-  text-decoration: underline;
-}
 
 h1 {
   font-weight: 400;
@@ -87,6 +84,11 @@ code {
 }
 .post-content {
   padding-bottom: 15rem;
+}
+.post-content a {
+  text-decoration: underline;
+  text-underline-position: above;
+  text-decoration-color: #b3b3b3;
 }
 
 /*# sourceMappingURL=style.css.map */

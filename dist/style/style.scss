@@ -1,10 +1,16 @@
 // === imports ===
 @import url("https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400&family=Literata:ital,wght@0,400;0,700;1,400&display=swap");
 
+// === mixins ===
+@mixin thick-title {
+  font-size: 5rem;
+  font-weight: 700;
+}
+
 // === variables ===
 $max-width: 720px;
 
-$primary-color: hsl(284, 46%, 35%);
+$primary-color: hsl(263, 47%, 70%);
 
 $background-color: hsl(0, 0%, 100%);
 $text-color: hsl(0, 0%, 20%);
@@ -46,10 +52,6 @@ body {
 a {
   text-decoration: none;
   color: $text-color;
-
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 h1 {
@@ -111,19 +113,24 @@ code {
   }
 
   &-title {
-    font-size: 5rem;
-    font-weight: 700;
+    @include thick-title;
   }
 }
 
 .post {
   &-title {
-    font-size: 5rem;
-    font-weight: 700;
+    @include thick-title;
     padding-bottom: 2rem;
   }
 
   &-content {
     padding-bottom: 15rem;
+
+    a {
+      // maybe a mixin for this?
+      text-decoration: underline;
+      text-underline-position: above;
+      text-decoration-color: $text-color-light-5;
+    }
   }
 }
