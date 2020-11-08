@@ -1,5 +1,5 @@
 ---
-title: "Creativity Doesn't Like Zombies"
+title: "Creativity Doesn’t Like Zombies"
 date: "2020-11-05"
 layout: "post.liquid"
 tags: "post"
