@@ -39,6 +39,10 @@ h6 {
   padding-top: 1rem;
 }
 
+ul, ol {
+  padding-left: 2rem;
+}
+
 .container {
   max-width: 720px;
   margin: 0 auto;
