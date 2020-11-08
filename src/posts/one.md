@@ -1,7 +1,7 @@
 ---
-title: "???"
+title: "first"
 date: "2020-04-10"
-layout: "post.hbs"
+layout: "post.liquid"
 tags: "post"
 ---
 

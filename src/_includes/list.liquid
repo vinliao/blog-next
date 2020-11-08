@@ -1,0 +1,10 @@
+---
+layout: parent.liquid
+---
+
+{% for post in collections.post %}
+<div class="list">
+  <p class="list-date">{{post.data.date}}</p>
+  <a class="list-title" href="{{post.url}}">{{post.data.title}}</a>
+</div>
+{% endfor %}
