@@ -2,6 +2,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 html {
@@ -9,7 +10,7 @@ html {
 }
 
 body {
-  font-size: 2.25rem;
+  font-size: 1.5rem;
   font-family: "Literata", serif;
   color: #333333;
   background-color: white;
@@ -18,77 +19,6 @@ body {
 a {
   text-decoration: none;
   color: #333333;
-}
-
-h1 {
-  font-weight: 400;
-  padding-top: 2rem;
-}
-
-h2 {
-  font-weight: 400;
-  padding-top: 1rem;
-}
-
-h3 {
-  font-weight: 400;
-  padding-top: 0.25rem;
-}
-
-code {
-  padding: 0 1rem;
-  border-radius: 0.5rem;
-  background-color: ghostwhite;
-  font-family: "Inconsolata", monospace;
-}
-
-.container {
-  max-width: 720px;
-  margin: 0 auto;
-}
-
-.nav {
-  display: flex;
-  justify-content: space-between;
-  padding: 2rem 5rem 10rem 5rem;
-}
-.nav-title {
-  font-size: 4rem;
-  font-family: "Inconsolata", monospace;
-  font-weight: 200;
-}
-.nav-links {
-  display: flex;
-  align-items: center;
-}
-.nav-links span {
-  margin-left: 5rem;
-  color: gray;
-}
-
-.list {
-  padding-bottom: 8rem;
-}
-.list-date {
-  color: #b3b3b3;
-}
-.list-title {
-  font-size: 5rem;
-  font-weight: 700;
-}
-
-.post-title {
-  font-size: 5rem;
-  font-weight: 700;
-  padding-bottom: 2rem;
-}
-.post-content {
-  padding-bottom: 15rem;
-}
-.post-content a {
-  text-decoration: underline;
-  text-underline-position: above;
-  text-decoration-color: #b3b3b3;
 }
 
 /*# sourceMappingURL=style.css.map */
