@@ -10,4 +10,6 @@
 
 # Minor improvements/fixes
 - ~~what if I make h1, h2, h3 into a sans-serif font? What if I use sans serif for the nav title instead of my current monospace font? I will have two fonts if I do that.~~
-- problem: code tag breaks in dark mode because of the shadowwhite color. Change font type and color instead of changing the background
+- ~~problem: code tag breaks in dark mode because of the shadowwhite color. Change font type and color instead of changing the background~~
+- ~~`\n\n` doesn't seem to work on the parsed markdown. It doesn't produce <br> in the final html.~~
+- ~~auto re-create quotation mark into non-straight one~~
