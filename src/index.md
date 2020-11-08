@@ -1,6 +1,6 @@
 ---
 title: "hello markdown"
-layout: home.hbs
+layout: list.hbs
 ---
 
 whatever you want
