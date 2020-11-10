@@ -12,7 +12,7 @@ This letter is coming from the heart of a child. My parents will never listen to
 
 Did you know that the expectation you set on your child is a heavy burden to bear? Did you know that telling your child what to do without being armed with wisdom creates more problem that it solves? Did you know that there are things that we children want more than what money can buy? Did you know that we want to be accepted and listened more than your advice?
 
-Perhaps you--as a parent--don't know any of these. My parents know none of it.
+Perhaps you---as a parent---don't know any of these. My parents know none of it.
 
 All we want is play, but you force your adult ideals of success and work down our throat. Every child will scream "there's no fun in that!" But the child has to acquiesce to the parents' way sooner or later.
 
@@ -24,7 +24,7 @@ And let's not forget about expectation. Every parents expect things out of their
 
 I can tell from personal experience that it was anxiety inducing. I earn money not because I want money or love the craft, but because I want to gain the approval and applause of my dad. I might outwardly deny it, yet it's one of the driving force behind things.
 
-And that burden is as heavy as wearing chains and balls around my neck--I have stooped posture; I have a hard time breathing; my back is aching; my shaking legs are about to give up in bearing all these heavy burden.
+And that burden is as heavy as wearing chains and balls around my neck---I have stooped posture; I have a hard time breathing; my back is aching; my shaking legs are about to give up in bearing all these heavy burden.
 
 Every child in this planet is not free. We are like caged birds. While we might be well fed, that's not what we truly want.
 

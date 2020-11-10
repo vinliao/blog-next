@@ -39,7 +39,8 @@ h6 {
   padding-top: 1rem;
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 2rem;
 }
 
@@ -64,7 +65,7 @@ ul, ol {
   align-items: center;
 }
 .nav-links a {
-  margin-left: 5rem;
+  margin-left: 3rem;
   color: gray;
 }
 
@@ -86,6 +87,10 @@ ul, ol {
 .post-title {
   font-size: 3rem;
   font-weight: 700;
+}
+.post-date {
+  font-size: 1.5rem;
+  color: #b3b3b3;
   padding-bottom: 1rem;
 }
 .post-content {
@@ -95,6 +100,17 @@ ul, ol {
   text-decoration: underline;
   text-underline-position: above;
   text-decoration-color: #b3b3b3;
+}
+
+@media (min-width: 600px) {
+  html {
+    font-size: 11px;
+  }
+}
+@media (min-width: 1200px) {
+  html {
+    font-size: 12px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */

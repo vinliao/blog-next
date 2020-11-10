@@ -1,6 +1,6 @@
 {
-  "name": "eleventy-sample",
-  "version": "1.0.0",
+  "name": "11ty-blog",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {

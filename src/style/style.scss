@@ -11,6 +11,11 @@
   font-family: "Inconsolata", monospace;
 }
 
+@mixin date-text {
+  font-size: 1.5rem;
+  color: $text-color-light-5;
+}
+
 // === variables ===
 $max-width: 720px;
 
@@ -83,7 +88,8 @@ h6 {
   padding-top: 1rem;
 }
 
-ul, ol {
+ul,
+ol {
   padding-left: 2rem;
 }
 
@@ -104,14 +110,14 @@ ul, ol {
     font-weight: 200;
   }
 
-  // maybe use hamburger instead
+  // maybe use menu instead
   &-links {
     display: flex;
     // what's the difference between align items and justify content?
     align-items: center;
 
     a {
-      margin-left: 5rem;
+      margin-left: 3rem;
       color: $text-color-light-3;
     }
   }
@@ -125,8 +131,7 @@ ul, ol {
   }
 
   &-date {
-    font-size: 1.5rem;
-    color: $text-color-light-5;
+    @include date-text;
   }
 
   &-title {
@@ -137,6 +142,10 @@ ul, ol {
 .post {
   &-title {
     @include thick-title;
+  }
+
+  &-date {
+    @include date-text;
     padding-bottom: 1rem;
   }
 
@@ -147,5 +156,18 @@ ul, ol {
       text-underline-position: above;
       text-decoration-color: $underline-color;
     }
+  }
+}
+
+// breakpoint is arbitrary
+@media (min-width: 600px){
+  html {
+    font-size: 11px;
+  }
+}
+
+@media (min-width: 1200px){
+  html {
+    font-size: 12px;
   }
 }

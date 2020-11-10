@@ -14,3 +14,6 @@
 - ~~problem: code tag breaks in dark mode because of the shadowwhite color. Change font type and color instead of changing the background~~
 - ~~`\n\n` doesn't seem to work on the parsed markdown. It doesn't produce <br> in the final html.~~
 - ~~auto re-create quotation mark into non-straight one~~
+
+# Some ideas
+- You know, my markdown data is kinda strangled here. In some sense, it's locked-in into this 11ty (just like it was locked in into hugo in my old blog). Is there a way to have all my blog post (or even tweets) in some kind of a db that doesn't care what front end I use?
